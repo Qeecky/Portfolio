@@ -15,6 +15,10 @@
 - sklearn.linear_model.LogisticRegression
 - catboost.CatBoostClassifier
 - sklearn.metrics.f1_score
+- numpy
+- pandas
+- seaborn
+- matplotlib
 
 ## Общий вывод
 Я проведел анализ комментариев на токсичность.
